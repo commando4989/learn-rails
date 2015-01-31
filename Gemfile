@@ -39,7 +39,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 2.0.alpha.0'
-gem 'figaro'
+gem 'figaro', '~> 0.7.0'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
